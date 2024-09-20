@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        supportActionBar!!.setBackgroundDrawable(ColorDrawable(Color.rgb(0,191,255)))
+        supportActionBar!!.setBackgroundDrawable(ColorDrawable(Color.rgb(16,27,131)))
         supportActionBar!!.setTitle(R.string.app_name)
     }
 }
