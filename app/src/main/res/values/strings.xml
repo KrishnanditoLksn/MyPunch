@@ -4,4 +4,39 @@
     <string name="list_of_punches_characters">List of Punches Characters</string>
     <string name="about_icon_button">About Icon Button</string>
     <string name="about">About</string>
+    <string name="list_image">List Image</string>
+    <string name="title">Title</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+
+    <string-array name="char_name">
+        <item>Saitama</item>
+        <item>Genos</item>
+        <item>Tatsumaki</item>
+        <item>Fubuki</item>
+        <item>Mumen Rider</item>
+        <item>Child Emperor</item>
+        <item>King</item>
+        <item>Metal bat </item>
+        <item>Bang</item>
+        <item>Flashy Flash</item>
+    </string-array>
+
+    <string-array name="char_description">
+        <item>Saitama is a fictional character who is the titular protagonist of the
+            Japanese manga and Anime series One-Punch Man created by One.</item>
+        <item>Genos (ジェノス, Jenosu) is the deuteragonist of One-Punch Man. H
+            e is a 19-year-old cyborg and the disciple of Saitama.</item>
+        <item>Tatsumaki (タツマキ, Tatsumaki; Viz: Tornado), also known by her hero alias Tornado of Terror (戦せん慄りつのタツマキ, Senritsu no Tatsumaki; Viz: Terrible Tornado),
+            is the S-Class Rank 2 professional hero of the Hero Association.</item>
+        <item>Fubuki (フブキ, Fubuki; Viz: Blizzard), also known by her hero alias Blizzard of Hell (地獄のフブキ,
+            Jigoku no Fubuki; Viz: Hellish Blizzard) is the B-Class Rank 1 professional hero of the Hero
+            Association.</item>
+        <item>Satoru (サトル), better known by his hero alias Mumen Rider (無む免めんライダー, Mumen Raidā), is the C-Class Rank
+            1 professional hero of the Hero Association. He is one of the few people aware of Saitama\'s strength.</item>
+        <item>Isamu (イサム, Isamu),[4] better known by his hero alias Child Emperor (童どう帝てい, Dōtei), is formerly the S-Class Rank 5 professional hero of the Hero Association and its youngest hero. He has his own laboratory in Y-City.</item>
+        <item>King (キング, Kingu) is the S-Class Rank 5 professional hero of the Hero Association. In public, King is known as "The Strongest Man on Earth" (地ち上じょう最さい強きょうの男おとこ, Chijō Saikyō no Otoko) and "The Heroes' Hero". In truth, however, he is just a normal civilian who unintentionally gained credit for the heroic acts performed by Saitama. King is also part of the Saitama Group.</item>
+        <item>Bad (バッド, Baddo), better known by his hero alias Metal Bat (金きん属ぞくバット, Kinzoku Batto), is the formerly S-Class Rank 15 professional hero of the Hero Association.</item>
+        <item>Bang (バング, Bangu), also known by his hero alias Silver Fang (シルバーファング, Shirubā Fangu), is a martial arts master, the creator and teacher of Water Stream Rock Smashing Fist, and formerly a professional hero.</item>
+        <item>Flashy Flash (閃せん光こうのフラッシュ, Senkō no Furasshu) is the S-Class Rank 10 professional hero of the Hero Association. He is a former member of the Ninja Village\'s 44th Graduation Class, nicknamed The End (終わり, Owari; Viz: The Final)</item>
+    </string-array>
 </resources>
